@@ -1,0 +1,9 @@
+label{
+    display: block;
+    margin-bottom: 16px;
+}
+form{
+    margin: auto;
+    width: 600px;
+    margin-top: 150px;
+}

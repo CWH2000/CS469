@@ -1,0 +1,30 @@
+.left-container{
+}
+.right-container{
+    position: absolute;
+    right: 0;
+}
+.statistics {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+  }
+  .statistic {
+    display: flex;
+    align-items: center;
+  }
+  .separator {
+    height: 64px;
+    width: 1px;
+    background-color: white;
+    margin: 0 10px;
+  }
+  .label {
+    font-weight: bold;
+    font-size: 18px;
+  }
+  .number {
+    font-size: 24px;
+  }
+  
